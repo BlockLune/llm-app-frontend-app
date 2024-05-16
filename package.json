@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "llm-app-nuxt-frontend",
   "private": true,
   "type": "module",
   "scripts": {
